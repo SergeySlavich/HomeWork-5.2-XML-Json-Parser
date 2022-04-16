@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><staff><employee><id>1</id><FirstName>Jhon</FirstName><LastName>Smith</LastName><country>USA</country><age>25</age></employee><employee><id>2</id><FirstName>Ivan</FirstName><LastName>Petrov</LastName><country>RU</country><age>23</age></employee></staff>
